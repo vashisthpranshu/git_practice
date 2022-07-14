@@ -1,0 +1,8 @@
+Git commands
+init
+clone
+branch
+add
+commit
+log
+rm
