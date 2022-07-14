@@ -6,3 +6,5 @@ add
 commit
 log
 rm
+push
+pull
